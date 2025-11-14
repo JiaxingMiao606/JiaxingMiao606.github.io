@@ -48,6 +48,28 @@ This paper introduces a new concept of graph memory learning. Its core idea is t
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2023</div><img src='images/PR-2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Triplet teaching graph contrastive networks with self-evolving adaptive augmentation](https://www.sciencedirect.com/science/article/pii/S0031320323003850)
+
+**Jiaxing Miao**, Feilong Cao, Ming Li, Bing Yang, Hailiang Ye
+
+Building on the teaching concept, this paper proposes a novel *triplet-based teaching graph contrastive network with self-evolving adaptive augmentation (T-GCSA)*. It addresses the critical challenges of generating reasonable augmented views, utilizing them effectively, and constructing efficient, comprehensive contrastive objectives.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN 2023</div><img src='images/NN-2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Revisiting graph neural networks from hybrid regularized graph signal reconstruction](https://www.sciencedirect.com/science/article/pii/S0893608022004439)
+
+**Jiaxing Miao**, Feilong Cao, Hailiang Ye, Ming Li, Bing Yang,
+
+This paper presents a unified optimization framework from hybrid regularized graph signal reconstruction to establish the connection between the aggregation operations of different GNNs, showing that exploring the optimal solution is the process of GNN information aggregation. We use this new framework to mathematically explain several classic GNN models and summarizes their commonalities and differences from a macro perspective. The proposed framework not only provides convenience to understand GNNs, but also has a guiding significance for the proposal of new GNNs. Moreover, we design a model-driven fixed-point iteration method and a data-driven dictionary learning network according to the corresponding optimization objective and sparse representation. Then the new model, GNN based on model-driven and data-driven (GNN-MD), is established by using alternating iteration methods. We also theoretically analyze its convergence.
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2024.12*: My master's thesis titled 'Interpretable Graph Representation LearningUnder Semi-Supervised and Unsupervised' was awarded the Excellent Master’s Thesis of Zhejiang Province.
 - *2021.12*: Won the second prize in the 18th 'Huawei Cup' National Graduate Mathematical Modeling Competition in China.
