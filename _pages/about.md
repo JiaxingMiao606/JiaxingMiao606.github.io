@@ -92,6 +92,6 @@ This paper presents a unified optimization framework from hybrid regularized gra
 - *2016.09 - 2020.06*, Undergraduate. the Department of Mathematics, Zhejiang Ocean University, Zhoushan 310018, China.
 
 # 💻 Academic Service
-- Serving as PC Member and reviewer for ACM Web Conference 2026.
+- Serving as a PC Member and reviewer for ACM Web Conference 2026.
 - Serving as a reviewer for The 39-th Annual Conference on Neural Information Processing Systems (2025).
 - Serving as a reviewer for IEEE Transactions on Neural Networks and Learning Systems.
