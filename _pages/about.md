@@ -26,14 +26,14 @@ I am open to collaborations with researchers and teams sharing interests in **Li
 
 # 🔥 News
 
-- *2025.10*: &nbsp;🎉🎉 Visited the research group of Prof. Xipeng Qiu at Shanghai Innovation Institute.
-- *2025.08*: &nbsp;🎉🎉 One paper is accepted by *IEEE Transactions on Pattern Analysis and Machine Intelligence* (JCR-Q1, 中科院1区Top, CCF-A, IF=18.6).
-- *2025.05*: &nbsp;🎉🎉 Built a good academic collaboration with Prof. Usman Naseem’s team at Macquarie University.
+- *2025.10*: &nbsp;🎉🎉 Visited the research group of **Prof. Xipeng Qiu** at Shanghai Innovation Institute.
+- *2025.08*: &nbsp;🎉🎉 One paper is accepted by ***IEEE Transactions on Pattern Analysis and Machine Intelligence*** **(JCR-Q1, 中科院1区Top, CCF-A, IF=18.6)**.
+- *2025.05*: &nbsp;🎉🎉 Built a good academic collaboration with **Prof. Usman Naseem**’s team at Macquarie University.
 - *2024.12*: &nbsp;🎉🎉 Awarded the Excellent Master’s Thesis of Zhejiang Province.
-- *2024.10*: &nbsp;🎉🎉 Built a good academic collaboration with Prof. Hongying Zhao’s team at Tongji University.
-- *2024.07*: &nbsp;🎉🎉 Built a good academic collaboration with Prof. Longbin Cao’s team at Macquarie University.
-- *2023.10*: &nbsp;🎉🎉 One paper is accepted by *Pattern Recognition* (JCR-Q1, 中科院1区Top, CCF-B). 
-- *2023.01*: &nbsp;🎉🎉 One paper is accepted by *Neural Networks* (JCR-Q1, 中科院2区Top, CCF-B). 
+- *2024.10*: &nbsp;🎉🎉 Built a good academic collaboration with **Prof. Hongying Zhao**’s team at Tongji University.
+- *2024.07*: &nbsp;🎉🎉 Built a good academic collaboration with **Prof. Longbin Cao**’s team at Macquarie University.
+- *2023.10*: &nbsp;🎉🎉 One paper is accepted by ***Pattern Recognition*** **(JCR-Q1, 中科院1区Top, CCF-B)**. 
+- *2023.01*: &nbsp;🎉🎉 One paper is accepted by ***Neural Networks*** **(JCR-Q1, 中科院2区Top, CCF-B)**. 
 
 # 📝 Publications 
 
@@ -52,8 +52,9 @@ I am open to collaborations with researchers and teams sharing interests in **Li
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12*: My master's thesis titled 'Interpretable Graph Representation LearningUnder Semi-Supervised and Unsupervised' was awarded the Excellent Master’s Thesis of Zhejiang Province.
+- *2021.12*: Won the second prize in the 18th 'Huawei Cup' National Graduate Mathematical Modeling Competition in China.
+
 
 # 📖 Educations
 - *2023.09 - now*, Ph.D. student, the Department of Computer Science and Technology, Tongji University, Shanghai 201804, China. 
