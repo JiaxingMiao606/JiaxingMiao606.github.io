@@ -47,12 +47,11 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - now*, Ph.D. student, the Department of Computer Science and Technology, Tongji University, Shanghai 201804, China. 
+- *2020.09 - 2023.06*, Master. the Department of Mathematics, China Jiliang University, Hangzhou 310018, China.
+- *2016.09 - 2020.06*, Undergraduate. the Department of Mathematics, Zhejiang Ocean University, Zhoushan 310018, China.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Academic Service
+- Serving as PC Member and reviewer for ACM Web Conference 2026.
+- Serving as a reviewer for The 39-th Annual Conference on Neural Information Processing Systems (2025).
+- Serving as a reviewer for IEEE Transactions on Neural Networks and Learning Systems.
