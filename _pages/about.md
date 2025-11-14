@@ -48,6 +48,17 @@ This paper introduces a new concept of graph memory learning. Its core idea is t
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/Arxiv-25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Reliable Curriculum Unlearning via the Right Forgotten Pathway](https://arxiv.org/abs/2509.14633)
+
+**Jiaxing Miao**, Liang Hu, Qi Zhang, Zhongyuan Lai, Tangwei Ye and Usman Naseem
+
+This paper proposes *CUFG (Curriculum Unlearning via Forgetting Gradients)*, a novel framework that enhances the stability of approximate unlearning through innovations in both forgetting mechanisms and data scheduling strategies. Specifically, CUFG integrates a new gradient corrector guided by forgetting gradients for fine-tuning-based unlearning and a curriculum unlearning paradigm that progressively forgets from easy to hard.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2023</div><img src='images/PR-2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -66,7 +77,7 @@ Building on the teaching concept, this paper proposes a novel *triplet-based tea
 
 **Jiaxing Miao**, Feilong Cao, Hailiang Ye, Ming Li, Bing Yang,
 
-This paper presents a unified optimization framework from hybrid regularized graph signal reconstruction to establish the connection between the aggregation operations of different GNNs, showing that exploring the optimal solution is the process of GNN information aggregation. We use this new framework to mathematically explain several classic GNN models and summarizes their commonalities and differences from a macro perspective. The proposed framework not only provides convenience to understand GNNs, but also has a guiding significance for the proposal of new GNNs. Moreover, we design a model-driven fixed-point iteration method and a data-driven dictionary learning network according to the corresponding optimization objective and sparse representation. Then the new model, GNN based on model-driven and data-driven (GNN-MD), is established by using alternating iteration methods. We also theoretically analyze its convergence.
+This paper presents a unified optimization framework from hybrid regularized graph signal reconstruction to establish the connection between the aggregation operations of different GNNs. We use this new framework to mathematically explain several classic GNN models and summarizes their commonalities and differences from a macro perspective. Based on this, we design the new model, *GNN based on model-driven and data-driven (GNN-MD)*. We also theoretically analyze its convergence.
 </div>
 </div>
 
