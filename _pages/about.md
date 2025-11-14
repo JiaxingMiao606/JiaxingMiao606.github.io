@@ -29,7 +29,7 @@ I am open to collaborations with researchers and teams sharing interests in **Li
 - *2025.10*: &nbsp;🎉🎉 Visited the research group of **Prof. Xipeng Qiu** at Shanghai Innovation Institute.
 - *2025.08*: &nbsp;🎉🎉 One paper is accepted by ***IEEE Transactions on Pattern Analysis and Machine Intelligence*** **(JCR-Q1, 中科院1区Top, CCF-A, IF=18.6)**.
 - *2025.05*: &nbsp;🎉🎉 Built a good academic collaboration with **Prof. Usman Naseem**’s team at Macquarie University.
-- *2024.12*: &nbsp;🎉🎉 Awarded the Excellent Master’s Thesis of Zhejiang Province.
+- *2024.12*: &nbsp;🎉🎉 Awarded **the Excellent Master’s Thesis of Zhejiang Province**.
 - *2024.10*: &nbsp;🎉🎉 Built a good academic collaboration with **Prof. Hongying Zhao**’s team at Tongji University.
 - *2024.07*: &nbsp;🎉🎉 Built a good academic collaboration with **Prof. Longbin Cao**’s team at Macquarie University.
 - *2023.10*: &nbsp;🎉🎉 One paper is accepted by ***Pattern Recognition*** **(JCR-Q1, 中科院1区Top, CCF-B)**. 
