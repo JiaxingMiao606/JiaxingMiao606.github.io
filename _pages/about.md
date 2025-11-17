@@ -89,7 +89,7 @@ This paper presents a unified optimization framework from hybrid regularized gra
 # 📖 Educations
 - *2023.09 - now*, Ph.D. student, the Department of Computer Science and Technology, Tongji University, Shanghai 201804, China. 
 - *2020.09 - 2023.06*, Master. the Department of Mathematics, China Jiliang University, Hangzhou 310018, China.
-- *2016.09 - 2020.06*, Undergraduate. the Department of Mathematics, Zhejiang Ocean University, Zhoushan 310018, China.
+- *2016.09 - 2020.06*, Undergraduate. the Department of Mathematics, Zhejiang Ocean University, Zhoushan 316022, China.
 
 # 💻 Academic Service
 - Serving as a PC Member and reviewer for ACM Web Conference 2026.
