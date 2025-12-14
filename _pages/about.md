@@ -26,6 +26,7 @@ I am open to collaborations with researchers and teams sharing interests in **Li
 
 # 🔥 News
 
+- *2025.12*: &nbsp;🎉🎉 Awarded the First Prize for Outstanding Paper by the Collaborative and Information Services Technical Committee of the Shanghai Computer Society.
 - *2025.10*: &nbsp;🎉🎉 Visited the research group of Prof. Xipeng Qiu at Shanghai Innovation Institute.
 - *2025.08*: &nbsp;🎉🎉 One paper is accepted by *IEEE Transactions on Pattern Analysis and Machine Intelligence* (JCR-Q1, 中科院1区Top, CCF-A, IF=18.6).
 - *2025.05*: &nbsp;🎉🎉 Built a good academic collaboration with Prof. Usman Naseem’s team at Macquarie University.
@@ -82,6 +83,7 @@ This paper presents a unified optimization framework from hybrid regularized gra
 </div>
 
 # 🎖 Honors and Awards
+- *2024.12*: Awarded the First Prize for Outstanding Paper by the Collaborative and Information Services Technical Committee of the Shanghai Computer Society.
 - *2024.12*: My master's thesis titled 'Interpretable Graph Representation LearningUnder Semi-Supervised and Unsupervised' was awarded the Excellent Master’s Thesis of Zhejiang Province.
 - *2021.12*: Won the second prize in the 18th 'Huawei Cup' National Graduate Mathematical Modeling Competition in China.
 
