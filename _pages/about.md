@@ -83,7 +83,7 @@ This paper presents a unified optimization framework from hybrid regularized gra
 </div>
 
 # 🎖 Honors and Awards
-- *2024.12*: Awarded the First Prize for Outstanding Paper by the Collaborative and Information Services Technical Committee of the Shanghai Computer Society.
+- *2025.12*: Awarded the First Prize for Outstanding Paper by the Collaborative and Information Services Technical Committee of the Shanghai Computer Society.
 - *2024.12*: My master's thesis titled 'Interpretable Graph Representation LearningUnder Semi-Supervised and Unsupervised' was awarded the Excellent Master’s Thesis of Zhejiang Province.
 - *2021.12*: Won the second prize in the 18th 'Huawei Cup' National Graduate Mathematical Modeling Competition in China.
 
