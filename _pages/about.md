@@ -46,7 +46,7 @@ I am open to collaborations with researchers and teams sharing interests in **Li
 
 Tangwei Ye, Liang Hu, Zhongyuan Lai, Qi Zhang, Yiming Wu, **Jiaxing Miao**,  Yijun Yang, Kun Yi	
 
-This paper introduces a region-aware hierarchical framework for trajectory recovery in roadless and data-sparse regions. Its core idea is to exploit web crowdsourced data to infer latent movement structures and reconstruct missing trajectories without relying on explicit road networks or reliable GPS signals. Based on this idea, the paper proposes Region-aware Hierarchical Trajectory Recovery (RHTR), which employs a coarse-to-fine, multi-scale grid representation to achieve accurate trajectory inference across regions.
+This paper introduces Region-aware Hierarchical Trajectory Recovery (RHTR), a region-aware framework that leverages web crowdsourced data and a coarse-to-fine multi-scale representation to recover trajectories in roadless and data-sparse regions without relying on explicit road networks or reliable GPS signals.
 </div>
 </div>
 
@@ -57,7 +57,7 @@ This paper introduces a region-aware hierarchical framework for trajectory recov
 
 Aoqi Wu, Junming Liu, Evelyn Zhang, Weiquan Huang, Yifan Yang, **Jiaxing Miao**, Qi Zhang, Lai Zhong Yuan, Liang Hu
 
-This paper introduces an information-theoretic view of model-agnostic dataset distillation. Its core idea is to achieve architecture-invariant synthetic datasets by minimizing the mutual information between distilled data and the distillation model. Based on this insight, the paper proposes Adversarial Mutual Information Distillation (AMID), which formulates MI minimization as an adversarial learning process, enabling strong cross-architecture generalization in dataset distillation.
+This paper introduces an information-theoretic approach to model-agnostic dataset distillation. It proposes Adversarial Mutual Information Distillation (AMID), which minimizes architectural bias via adversarial learning, enabling strong cross-architecture generalization.
 </div>
 </div>
 
