@@ -39,25 +39,25 @@ I am open to collaborations with researchers and teams sharing interests in **Li
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='images/TPAMI-2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='images/www-2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Graph Memory Learning: Imitating Lifelong Remembering and Forgetting of Brain Networks](https://ieeexplore.ieee.org/abstract/document/11129878)
+[Accurate Trajectory Recovery in Underserved Areas via Location Inference from Web Crowdsourced Data]
 
-**Jiaxing Miao**, Liang Hu, Qi Zhang, Longbin Cao
+Tangwei Ye, Liang Hu, Zhongyuan Lai, Qi Zhang, Yiming Wu, **Jiaxing Miao**,  Yijun Yang, Kun Yi	
 
-This paper introduces a new concept of graph memory learning. Its core idea is to enable a graph model to selectively remember new knowledge but forget old knowledge. Building on this idea, the paper presents a novel graph memory learning framework *Brain-inspired Graph Memory Learning (BGML)*, inspired by brain network dynamics and function-structure coupling strategies.
+This paper introduces a region-aware hierarchical framework for trajectory recovery in roadless and data-sparse regions. Its core idea is to exploit web crowdsourced data to infer latent movement structures and reconstruct missing trajectories without relying on explicit road networks or reliable GPS signals. Based on this idea, the paper proposes Region-aware Hierarchical Trajectory Recovery (RHTR), which employs a coarse-to-fine, multi-scale grid representation to achieve accurate trajectory inference across regions.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/TPAMI-2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='images/www-2026-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Graph Memory Learning: Imitating Lifelong Remembering and Forgetting of Brain Networks](https://ieeexplore.ieee.org/abstract/document/11129878)
+[AMID: Model-Agnostic Dataset Distillation by Adversarial Mutual Information Minimization]
 
-**Jiaxing Miao**, Liang Hu, Qi Zhang, Longbin Cao
+Aoqi Wu, Junming Liu, Evelyn Zhang, Weiquan Huang, Yifan Yang, **Jiaxing Miao**, Qi Zhang, Lai Zhong Yuan, Liang Hu
 
-This paper introduces a new concept of graph memory learning. Its core idea is to enable a graph model to selectively remember new knowledge but forget old knowledge. Building on this idea, the paper presents a novel graph memory learning framework *Brain-inspired Graph Memory Learning (BGML)*, inspired by brain network dynamics and function-structure coupling strategies.
+This paper introduces an information-theoretic view of model-agnostic dataset distillation. Its core idea is to achieve architecture-invariant synthetic datasets by minimizing the mutual information between distilled data and the distillation model. Based on this insight, the paper proposes Adversarial Mutual Information Distillation (AMID), which formulates MI minimization as an adversarial learning process, enabling strong cross-architecture generalization in dataset distillation.
 </div>
 </div>
 
