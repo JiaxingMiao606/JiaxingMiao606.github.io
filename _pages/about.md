@@ -26,6 +26,7 @@ I am open to collaborations with researchers and teams sharing interests in **Li
 
 # 🔥 News
 
+- *2026.01*: &nbsp;🎉🎉 Two papers is accepted by *WWW 2026* (CCF-A).
 - *2025.12*: &nbsp;🎉🎉 Awarded the First Prize for Outstanding Paper by the Collaborative and Information Services Technical Committee of the Shanghai Computer Society.
 - *2025.10*: &nbsp;🎉🎉 Visited the research group of Prof. Xipeng Qiu at Shanghai Innovation Institute.
 - *2025.08*: &nbsp;🎉🎉 One paper is accepted by *IEEE Transactions on Pattern Analysis and Machine Intelligence* (JCR-Q1, 中科院1区Top, CCF-A, IF=18.6).
@@ -37,6 +38,28 @@ I am open to collaborations with researchers and teams sharing interests in **Li
 - *2023.01*: &nbsp;🎉🎉 One paper is accepted by *Neural Networks* (JCR-Q1, 中科院2区Top, CCF-B). 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='images/TPAMI-2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Graph Memory Learning: Imitating Lifelong Remembering and Forgetting of Brain Networks](https://ieeexplore.ieee.org/abstract/document/11129878)
+
+**Jiaxing Miao**, Liang Hu, Qi Zhang, Longbin Cao
+
+This paper introduces a new concept of graph memory learning. Its core idea is to enable a graph model to selectively remember new knowledge but forget old knowledge. Building on this idea, the paper presents a novel graph memory learning framework *Brain-inspired Graph Memory Learning (BGML)*, inspired by brain network dynamics and function-structure coupling strategies.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/TPAMI-2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Graph Memory Learning: Imitating Lifelong Remembering and Forgetting of Brain Networks](https://ieeexplore.ieee.org/abstract/document/11129878)
+
+**Jiaxing Miao**, Liang Hu, Qi Zhang, Longbin Cao
+
+This paper introduces a new concept of graph memory learning. Its core idea is to enable a graph model to selectively remember new knowledge but forget old knowledge. Building on this idea, the paper presents a novel graph memory learning framework *Brain-inspired Graph Memory Learning (BGML)*, inspired by brain network dynamics and function-structure coupling strategies.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/TPAMI-2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
