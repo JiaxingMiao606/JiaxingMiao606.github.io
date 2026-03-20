@@ -40,6 +40,17 @@ I am open to collaborations with researchers and teams sharing interests in **Li
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EST(AI4C) 2026</div><img src='images/640.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Causal-Inference Machine Learning for Unveiling Hydroxyl Radical Reactivity with Antibiotics in Water Purification](https://ieeexplore.ieee.org/abstract/document/11129878)
+
+Shihua Zou, Zonglin Li, Yicen Dai, **Jiaxing Miao**, Zhiyu Zhao, Liang Hu, Hongying Zhao
+
+This work develops an interpretable machine learning framework for AI-driven chemistry to uncover the intrinsic molecular factors governing HO· reactivity with antibiotic pollutants. By integrating DFT descriptors and attention-based features, the model identifies key molecular drivers of reactivity. The causal-interface model uncovers intrinsic cause–effect relationships and enables reliable mechanistic insight.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2026</div><img src='images/www-2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
