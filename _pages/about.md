@@ -26,7 +26,7 @@ I am open to collaborations with researchers and teams sharing interests in **Li
 
 # 🔥 News
 
-- *2026.03*: &nbsp;🎉🎉 One papers is accepted by *Environmental Science & Technology* (JCR-Q1, 中科院1区Top, IF=11.3, AI for Chemistry/AI4C).
+- *2026.03*: &nbsp;🎉🎉 One papers is accepted by *Environmental Science \& Technology* (JCR-Q1, 中科院1区Top, IF=11.3, AI for Chemistry/AI4C).
 - *2026.01*: &nbsp;🎉🎉 Two papers are accepted by *WWW 2026* (CCF-A).
 - *2025.12*: &nbsp;🎉🎉 Awarded the First Prize for Outstanding Paper by the Collaborative and Information Services Technical Committee of the Shanghai Computer Society.
 - *2025.10*: &nbsp;🎉🎉 Visited the research group of Prof. Xipeng Qiu at Shanghai Innovation Institute.
