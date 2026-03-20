@@ -43,7 +43,7 @@ I am open to collaborations with researchers and teams sharing interests in **Li
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EST(AI4C) 2026</div><img src='images/640.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Causal-Inference Machine Learning for Unveiling Hydroxyl Radical Reactivity with Antibiotics in Water Purification](https://ieeexplore.ieee.org/abstract/document/11129878)
+[Causal-Inference Machine Learning for Unveiling Hydroxyl Radical Reactivity with Antibiotics in Water Purification](https://pubs.acs.org/doi/abs/10.1021/acs.est.6c02173)
 
 Shihua Zou, Zonglin Li, Yicen Dai, **Jiaxing Miao**, Zhiyu Zhao, Liang Hu, Hongying Zhao
 
