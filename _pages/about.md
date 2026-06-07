@@ -26,6 +26,7 @@ I am open to collaborations with researchers and teams sharing interests in **Li
 
 # 🔥 News
 
+- *2026.05*: &nbsp;🎉🎉 One paper is accepted by *IJCAI 2026* (CCF-B).
 - *2026.04*: &nbsp;🎉🎉 Visiting the research group of Prof. Longbing Cao at Macquarie University.
 - *2026.03*: &nbsp;🎉🎉 One papers is accepted by *Environmental Science & Technology* (JCR-Q1, 中科院1区Top, IF=11.3, AI for Chemistry/AI4C).
 - *2026.01*: &nbsp;🎉🎉 Two papers are accepted by *WWW 2026* (CCF-A).
@@ -40,6 +41,17 @@ I am open to collaborations with researchers and teams sharing interests in **Li
 - *2023.01*: &nbsp;🎉🎉 One paper is accepted by *Neural Networks* (JCR-Q1, 中科院2区Top, CCF-B). 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2026</div><img src='images/IJCAI2026.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Durable Unlearning Enhancement Framework to Nullify Recall of Sensitive Data on Incremental Training]
+
+Qingqing Cao, Liang Hu, Dora Dongmei Liu, **Jiaxing Miao**, Zhongyuan Lai, Cao Jian, Wei Cao
+
+This work addresses the problem of post-unlearning knowledge recall, where previously forgotten sensitive information can be inadvertently restored during incremental model updates. The proposed Durable Unlearning Enhancement (DUE) framework detects sensitive samples in new data and suppresses their gradients to prevent the re-emergence of unlearned knowledge.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EST(AI4C) 2026</div><img src='images/640.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
