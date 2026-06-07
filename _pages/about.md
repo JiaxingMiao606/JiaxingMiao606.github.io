@@ -68,6 +68,7 @@ This work develops an interpretable machine learning framework for AI-driven che
 <div class='paper-box-text' markdown="1">
 
 [Accurate Trajectory Recovery in Underserved Areas via Location Inference from Web Crowdsourced Data]
+(https://dl.acm.org/doi/abs/10.1145/3774904.3792970)
 
 Tangwei Ye, Liang Hu, Zhongyuan Lai, Qi Zhang, Yiming Wu, **Jiaxing Miao**,  Yijun Yang, Kun Yi	
 
@@ -79,6 +80,7 @@ This paper introduces Region-aware Hierarchical Trajectory Recovery (RHTR), a re
 <div class='paper-box-text' markdown="1">
 
 [AMID: Model-Agnostic Dataset Distillation by Adversarial Mutual Information Minimization]
+(https://dl.acm.org/doi/abs/10.1145/3774904.3792973)
 
 Aoqi Wu, Junming Liu, Evelyn Zhang, Weiquan Huang, Yifan Yang, **Jiaxing Miao**, Qi Zhang, Lai Zhong Yuan, Liang Hu
 
