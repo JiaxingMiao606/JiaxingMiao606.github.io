@@ -42,6 +42,52 @@ I am open to collaborations with researchers and teams sharing interests in **Li
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/TPAMI-2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Graph Memory Learning: Imitating Lifelong Remembering and Forgetting of Brain Networks](https://ieeexplore.ieee.org/abstract/document/11129878)
+
+**Jiaxing Miao**, Liang Hu, Qi Zhang, Longbin Cao
+
+This paper introduces a new concept of graph memory learning. Its core idea is to enable a graph model to selectively remember new knowledge but forget old knowledge. Building on this idea, the paper presents a novel graph memory learning framework *Brain-inspired Graph Memory Learning (BGML)*, inspired by brain network dynamics and function-structure coupling strategies.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/Arxiv-25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Reliable Curriculum Unlearning via the Right Forgotten Pathway](https://arxiv.org/abs/2509.14633)
+
+**Jiaxing Miao**, Liang Hu, Qi Zhang, Zhongyuan Lai, Tangwei Ye and Usman Naseem
+
+This paper proposes *CUFG (Curriculum Unlearning via Forgetting Gradients)*, a novel framework that enhances the stability of approximate unlearning through innovations in both forgetting mechanisms and data scheduling strategies. Specifically, CUFG integrates a new gradient corrector guided by forgetting gradients for fine-tuning-based unlearning and a curriculum unlearning paradigm that progressively forgets from easy to hard.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2023</div><img src='images/PR-2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Triplet teaching graph contrastive networks with self-evolving adaptive augmentation](https://www.sciencedirect.com/science/article/pii/S0031320323003850)
+
+**Jiaxing Miao**, Feilong Cao, Ming Li, Bing Yang, Hailiang Ye
+
+Building on the teaching concept, this paper proposes a novel *triplet-based teaching graph contrastive network with self-evolving adaptive augmentation (T-GCSA)*. It addresses the critical challenges of generating reasonable augmented views, utilizing them effectively, and constructing efficient, comprehensive contrastive objectives.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN 2023</div><img src='images/NN-2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Revisiting graph neural networks from hybrid regularized graph signal reconstruction](https://www.sciencedirect.com/science/article/pii/S0893608022004439)
+
+**Jiaxing Miao**, Feilong Cao, Hailiang Ye, Ming Li, Bing Yang,
+
+This paper presents a unified optimization framework from hybrid regularized graph signal reconstruction to establish the connection between the aggregation operations of different GNNs. We use this new framework to mathematically explain several classic GNN models and summarizes their commonalities and differences from a macro perspective. Based on this, we design the new model, *GNN based on model-driven and data-driven (GNN-MD)*. We also theoretically analyze its convergence.
+</div>
+</div>
+
+# 📝 Cooperation Publications 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2026</div><img src='images/IJCAI2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -86,49 +132,6 @@ This paper introduces an information-theoretic approach to model-agnostic datase
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/TPAMI-2025.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Graph Memory Learning: Imitating Lifelong Remembering and Forgetting of Brain Networks](https://ieeexplore.ieee.org/abstract/document/11129878)
-
-**Jiaxing Miao**, Liang Hu, Qi Zhang, Longbin Cao
-
-This paper introduces a new concept of graph memory learning. Its core idea is to enable a graph model to selectively remember new knowledge but forget old knowledge. Building on this idea, the paper presents a novel graph memory learning framework *Brain-inspired Graph Memory Learning (BGML)*, inspired by brain network dynamics and function-structure coupling strategies.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/Arxiv-25.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Reliable Curriculum Unlearning via the Right Forgotten Pathway](https://arxiv.org/abs/2509.14633)
-
-**Jiaxing Miao**, Liang Hu, Qi Zhang, Zhongyuan Lai, Tangwei Ye and Usman Naseem
-
-This paper proposes *CUFG (Curriculum Unlearning via Forgetting Gradients)*, a novel framework that enhances the stability of approximate unlearning through innovations in both forgetting mechanisms and data scheduling strategies. Specifically, CUFG integrates a new gradient corrector guided by forgetting gradients for fine-tuning-based unlearning and a curriculum unlearning paradigm that progressively forgets from easy to hard.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2023</div><img src='images/PR-2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Triplet teaching graph contrastive networks with self-evolving adaptive augmentation](https://www.sciencedirect.com/science/article/pii/S0031320323003850)
-
-**Jiaxing Miao**, Feilong Cao, Ming Li, Bing Yang, Hailiang Ye
-
-Building on the teaching concept, this paper proposes a novel *triplet-based teaching graph contrastive network with self-evolving adaptive augmentation (T-GCSA)*. It addresses the critical challenges of generating reasonable augmented views, utilizing them effectively, and constructing efficient, comprehensive contrastive objectives.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN 2023</div><img src='images/NN-2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Revisiting graph neural networks from hybrid regularized graph signal reconstruction](https://www.sciencedirect.com/science/article/pii/S0893608022004439)
-
-**Jiaxing Miao**, Feilong Cao, Hailiang Ye, Ming Li, Bing Yang,
-
-This paper presents a unified optimization framework from hybrid regularized graph signal reconstruction to establish the connection between the aggregation operations of different GNNs. We use this new framework to mathematically explain several classic GNN models and summarizes their commonalities and differences from a macro perspective. Based on this, we design the new model, *GNN based on model-driven and data-driven (GNN-MD)*. We also theoretically analyze its convergence.
-</div>
-</div>
 
 # 🎖 Honors and Awards
 - *2025.12*: Awarded the First Prize for Outstanding Paper by the Collaborative and Information Services Technical Committee of the Shanghai Computer Society.
